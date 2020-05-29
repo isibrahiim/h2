@@ -82,6 +82,7 @@ p {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  border-left: 1px solid #fff;
 }
 
 .nav li a:hover {
